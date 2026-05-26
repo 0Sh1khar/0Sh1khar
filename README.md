@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Shikhar Singh 👋
 
-<!--
-**0Sh1khar/0Sh1khar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Electrical Engineering @ NIT Agartala | Computer Vision • ML • NLP
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 About Me
+- 🔭 Focused on Computer Vision, Deep Learning, and NLP
+- 🤝 Open Source Contributor — merged PR in **PyTorch** (`torch._inductor` scheduler) → [PR #184239](https://github.com/pytorch/pytorch/pull/184239)
+- 🏆 ICPC Asia West Regionalist 2025 (Amritapuri)
+- ⚡ Codeforces Specialist (1420+) | CodeChef 3★ (1700+)
+
+---
+
+### 🚀 Featured Projects
+| Project | Description |
+|--------|-------------|
+| [YOLOv8 Skill Verification](https://github.com/0Sh1khar/skill-verification-cv) | CV system for real-world task evaluation from videos — mAP50: 84% |
+| [Nika-Stock Predictor](https://github.com/0Sh1khar/Nika) | Sentiment-driven stock forecasting with 300+ daily news articles |
+| [AgrolyticAI](https://farm-gamma.vercel.app/) | Crop yield forecasting using real-time weather + soil data |
+
+---
+
+### 🛠 Tech Stack
+`Python` `PyTorch` `OpenCV` `YOLOv8` `Scikit-Learn` `Flask` `FastAPI` `NumPy` `Pandas` `C++`
+
+---
+
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shikhar-singh-b345602a1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1420%2B-blue?style=flat)](https://codeforces.com/profile/Sh1khar)
+[![Email](https://img.shields.io/badge/Email-0sh1khar7@gmail.com-red?style=flat&logo=gmail)](mailto:0sh1khar7@gmail.com)
